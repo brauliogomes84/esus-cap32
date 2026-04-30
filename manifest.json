@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "product": "eSUS-APS-PEC",
+  "approved": true,
+  "version": "5.4.30",
+  "channel": "piloto",
+  "releaseDate": "2026-04-29",
+  "installer": {
+    "fileName": "eSUS-AB-PEC-5.4.30-Win64.jar",
+    "url": "https://drive.google.com/file/d/1dYxe3KBH4D1yp8lEab609r474h0RELr-/view?usp=sharing",
+    "sha256": "395EAF88BCF83A086805F73A357F4EE9BE6FAAA058BCF859A31F8A1F2BFC246C",
+    "sizeBytes": 959901847
+  },
+  "requirements": {
+    "minFreeDiskGB": 20,
+    "maxBackupAgeHours": 24,
+    "requiresDumpRestore": false,
+    "requiresManualToken": false,
+    "blockedPostgresMajors": ["9.6"]
+  },
+  "execution": {
+    "mode": "DownloadOnly",
+    "silentModeTested": false
+  },
+  "rings": {
+    "allowedChannels": ["piloto"],
+    "allowedComputerNames": [
+      "NOME_DA_SUA_VM_AQUI"
+    ]
+  },
+  "notes": "Pacote homologado v5.4.30. Delivery liberado apenas para a VM piloto."
+}
