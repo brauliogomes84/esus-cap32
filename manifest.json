@@ -25,7 +25,7 @@
   "rings": {
     "allowedChannels": ["piloto"],
     "allowedComputerNames": [
-      "NOME_DA_SUA_VM_AQUI"
+      "Desktop01"
     ]
   },
   "notes": "Pacote homologado v5.4.30. Delivery liberado apenas para a VM piloto."
