@@ -19,7 +19,7 @@
     "blockedPostgresMajors": ["9.6"]
   },
   "execution": {
-    "mode": "DownloadOnly",
+    "mode": "Install",
     "silentModeTested": false
   },
   "rings": {
