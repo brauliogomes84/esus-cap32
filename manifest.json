@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "product": "eSUS-APS-PEC",
   "approved": true,
-  "version": "5.4.30",
+  "version": "5.4.36",
   "channel": "piloto",
   "releaseDate": "2026-04-29",
   "installer": {
