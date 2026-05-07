@@ -1,5 +1,5 @@
 {
-  "commandId": "2026-05-06-teste-health-002",
+  "commandId": "2026-05-06-health-003",
   "enabled": true,
   "action": "reportNow",
   "targets": [
