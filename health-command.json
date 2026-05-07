@@ -1,0 +1,10 @@
+{
+  "commandId": "2026-05-07-001",
+  "enabled": false,
+  "action": "reportNow",
+  "targets": [
+    "ESUS-TESTE"
+  ],
+  "requestedBy": "Braulio",
+  "message": "Relatório remoto do e-SUS"
+}
