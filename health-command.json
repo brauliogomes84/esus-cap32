@@ -1,10 +1,10 @@
 {
-  "commandId": "2026-05-07-001",
-  "enabled": false,
+  "commandId": "2026-05-06-teste-health-001",
+  "enabled": true,
   "action": "reportNow",
   "targets": [
     "ESUS-TESTE"
   ],
   "requestedBy": "Braulio",
-  "message": "Relatório remoto do e-SUS"
+  "message": "Teste remoto do eSUS Health Reporter"
 }
